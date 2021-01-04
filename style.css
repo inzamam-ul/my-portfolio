@@ -1,0 +1,22 @@
+body{
+    font-family: 'Nunito', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+section{
+    height: 500px;
+}
+.text-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
